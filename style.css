@@ -553,6 +553,7 @@ footer {
     background-color: #141A21;
     position: relative;
     color: #C4CDD5;
+    width: 100vw;
 }
 
 footer .footer_wrapper {
